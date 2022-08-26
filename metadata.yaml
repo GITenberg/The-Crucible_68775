@@ -1,0 +1,46 @@
+_repo: The-Crucible_68775
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: O'Neill, Rose Cecil
+    aliases:
+    - Wilson, Rose Cecil O'Neill
+    - Latham, Rose Cecil O'Neill
+    birthdate: 1874
+    deathdate: 1944
+    gutenberg_agent_id: '33571'
+    url: http://www.gutenberg.org/2009/agents/33571
+    wikipedia: https://en.wikipedia.org/wiki/Rose_O%27Neill
+creator:
+  author:
+    agent_name: Luther, Mark Lee
+    birthdate: 1872
+    deathdate: 1951
+    gutenberg_agent_id: '8504'
+    url: http://www.gutenberg.org/2009/agents/8504
+description: ''
+gutenberg_issued: '2022-08-17'
+identifiers:
+  gutenberg: '68775'
+  lccn: '07033211'
+language: en
+pgterms:marc904: https://archive.org/details/crucible00luthiala/page/n7/mode/2up
+pgterms:marc905: 20200726161020luther
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Carlos Colon, Mary Meehan, the University of California and the Online
+  Distributed Proofreading Team at https://www.pgdp.net (This file was produced from
+  images generously made available by The Internet Archive/American Libraries.)
+publication_note: United States :The Macmillan Company,1907.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Reformatories -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Crucible
+url: http://www.gutenberg.org/ebooks/68775
